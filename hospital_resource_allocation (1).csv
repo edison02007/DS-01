@@ -1,0 +1,73 @@
+Month,Department,Patient_Volume,Average_Treatment_Duration,Staff_Count,Equipment_Utilisation
+Jan,Emergency,1850,2.1,42,91
+Jan,Cardiology,620,3.8,28,78
+Jan,Neurology,480,4.2,22,72
+Jan,Orthopedics,710,3.5,25,76
+Jan,Pediatrics,890,2.6,30,81
+Jan,General Medicine,1250,2.4,35,84
+Feb,Emergency,1920,2.0,42,93
+Feb,Cardiology,650,3.7,28,80
+Feb,Neurology,495,4.1,22,74
+Feb,Orthopedics,735,3.4,25,78
+Feb,Pediatrics,940,2.5,30,83
+Feb,General Medicine,1290,2.3,35,85
+Mar,Emergency,2010,2.1,43,94
+Mar,Cardiology,680,3.8,29,82
+Mar,Neurology,510,4.0,22,76
+Mar,Orthopedics,760,3.5,26,80
+Mar,Pediatrics,980,2.7,31,85
+Mar,General Medicine,1340,2.4,36,87
+Apr,Emergency,1980,2.2,43,92
+Apr,Cardiology,670,3.9,29,81
+Apr,Neurology,520,4.3,23,77
+Apr,Orthopedics,750,3.6,26,79
+Apr,Pediatrics,960,2.8,31,84
+Apr,General Medicine,1310,2.5,36,86
+May,Emergency,2100,2.0,44,95
+May,Cardiology,710,3.6,29,84
+May,Neurology,540,4.0,23,79
+May,Orthopedics,790,3.3,27,82
+May,Pediatrics,1020,2.5,32,87
+May,General Medicine,1380,2.3,36,89
+Jun,Emergency,2180,1.9,44,96
+Jun,Cardiology,735,3.5,30,86
+Jun,Neurology,560,3.9,23,81
+Jun,Orthopedics,820,3.2,27,84
+Jun,Pediatrics,1080,2.4,32,89
+Jun,General Medicine,1420,2.2,37,91
+Jul,Emergency,2250,1.9,45,97
+Jul,Cardiology,760,3.5,30,88
+Jul,Neurology,575,3.8,24,83
+Jul,Orthopedics,850,3.1,28,86
+Jul,Pediatrics,1120,2.3,33,91
+Jul,General Medicine,1460,2.2,37,92
+Aug,Emergency,2300,1.8,45,98
+Aug,Cardiology,785,3.4,31,89
+Aug,Neurology,590,3.7,24,84
+Aug,Orthopedics,875,3.1,28,88
+Aug,Pediatrics,1150,2.3,33,92
+Aug,General Medicine,1490,2.1,37,94
+Sep,Emergency,2200,2.0,45,96
+Sep,Cardiology,750,3.6,30,87
+Sep,Neurology,570,3.9,24,82
+Sep,Orthopedics,840,3.3,28,85
+Sep,Pediatrics,1090,2.5,33,90
+Sep,General Medicine,1440,2.3,37,92
+Oct,Emergency,2050,2.1,44,94
+Oct,Cardiology,700,3.7,30,84
+Oct,Neurology,550,4.0,24,80
+Oct,Orthopedics,800,3.4,27,83
+Oct,Pediatrics,1030,2.6,32,88
+Oct,General Medicine,1390,2.4,36,90
+Nov,Emergency,1950,2.2,43,92
+Nov,Cardiology,665,3.9,29,81
+Nov,Neurology,525,4.2,23,77
+Nov,Orthopedics,770,3.5,26,80
+Nov,Pediatrics,970,2.7,31,85
+Nov,General Medicine,1330,2.5,36,87
+Dec,Emergency,2150,2.0,44,95
+Dec,Cardiology,720,3.6,30,85
+Dec,Neurology,545,3.9,23,80
+Dec,Orthopedics,810,3.3,27,83
+Dec,Pediatrics,1050,2.5,32,88
+Dec,General Medicine,1400,2.3,37,90
